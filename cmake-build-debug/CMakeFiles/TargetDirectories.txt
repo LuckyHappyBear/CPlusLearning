@@ -1,0 +1,3 @@
+/Users/luckybear/CLionProjects/CPlusLearning/cmake-build-debug/CMakeFiles/CPlusLearning.dir
+/Users/luckybear/CLionProjects/CPlusLearning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luckybear/CLionProjects/CPlusLearning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
